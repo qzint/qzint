@@ -4,10 +4,10 @@
 
 ---
 
-  <h3> </> Hello I'm 7zog - Developer, Coding and Dev</h3>
+  <h3> </> Hello I'm ForbiddenIdea - Developer, Coding and Dev</h3>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=7zog&theme=windows-dark&border_radius=25" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=forbiddenidea&theme=windows-dark&border_radius=25" alt="GitHub Streak"/>
   </a>
 </div>
 
@@ -88,7 +88,8 @@
 ---
 
 - ### **📫 Contact** :
-- _Discord_ : `ogedf`
-- _Discord_ : `7zog`
-- _Discord_ : `3yz_444`
-- _Telegram_ : `sfr7z`
+- Telegram : n0vbv
+- Discord : forbiddenidea
+- Instagram : forbiddenidea
+- Tiktok : forbiddenidea
+- Snapchat : forbiddenidea
