@@ -1,8 +1,4 @@
 <div align="center">
-  <h3>Skills Charts</h3>
-
----
-
   <h3> </> Hello I'm ForbiddenIdea - Developer, Coding and Dev</h3>
 
   <a href="https://git.io/streak-stats">
