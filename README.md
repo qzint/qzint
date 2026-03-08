@@ -84,7 +84,7 @@
 
 - ### **📫 Contact** :
 - Telegram : n0vbv
-- Discord : forbiddenidea
-- Instagram : forbiddenidea
-- Tiktok : forbiddenidea
-- Snapchat : forbiddenidea
+- Discord : xzint
+- Instagram : 
+- Tiktok : 
+- Snapchat : 
